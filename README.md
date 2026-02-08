@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Brady 👋
 
-<!--
-**bradytraupel/bradytraupel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laravel Developer with 3+ years of experience building real-world web applications
+for small businesses as part of my side business.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+- PHP 8.x
+- Laravel 12
+- Blade
+- MySQL
+- Git
+- Tailwind CSS
+- Docker (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Experience
+- Development and maintenance of Laravel applications for real clients
+- Backend logic, database design, authentication, CRUD systems
+- Working with client requirements and production systems
+
+📌 Note
+Client projects are private, but public case studies and demo projects
+are available below.
+
+🎯 Goal
+Remote Junior+/Mid-Level Backend or Full-Stack Laravel Developer position
+
+📫 Contact
+- LinkedIn: ...
