@@ -25,4 +25,4 @@ are available below.
 Remote Junior+/Mid-Level Backend or Full-Stack Laravel Developer position
 
 📫 Contact
-- LinkedIn: ...
+- LinkedIn: https://www.linkedin.com/in/bradytraupel
